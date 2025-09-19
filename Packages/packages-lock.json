@@ -1,5 +1,12 @@
 {
   "dependencies": {
+    "com.github.asus4.tflite": {
+      "version": "2.19.0-p3",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {},
+      "url": "https://registry.npmjs.com"
+    },
     "com.github.homuler.mediapipe": {
       "version": "file:com.github.homuler.mediapipe",
       "depth": 0,
